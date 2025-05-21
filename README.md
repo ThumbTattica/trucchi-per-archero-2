@@ -15,12 +15,12 @@
 <ul>
   <li>Gemme illimitate.</li>
   <li>Monete illimitate.</li>
-  <li>Chiave illimitate.</li>
+  <li>Chiavi illimitate.</li>
   <li>Energia illimitata.</li>
   <li>Equipaggiamento raro illimitato.</li>
   <li>Armi epiche illimitate.</li>
   <li>Abilità speciali illimitate.</li>
-  <li>Biglietto evento illimitati.</li>
+  <li>Biglietti evento illimitati.</li>
   <li>Token upgrade illimitati.</li>
 </ul>
 
