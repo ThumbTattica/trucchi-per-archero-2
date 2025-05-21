@@ -14,7 +14,7 @@
 
 <ul>
   <li>Gemme illimitate.</li>
-  <li>Moneta illimitate.</li>
+  <li>Monete illimitate.</li>
   <li>Chiave illimitate.</li>
   <li>Energia illimitata.</li>
   <li>Equipaggiamento raro illimitato.</li>
